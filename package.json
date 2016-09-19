@@ -41,6 +41,8 @@
   },
   "standard": {
     "ignore": [
+      "lib/merge-source-map.js",
+      "**/manual-test/**",
       "**/fixtures/**",
       "**/test/build/*"
     ]
