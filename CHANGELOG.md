@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="8.5.1"></a>
+## [8.5.1](https://github.com/istanbuljs/nyc/compare/v8.4.0...v8.5.1) (2016-09-19)
+
+
+
 <a name="8.4.0"></a>
 # [8.4.0](https://github.com/istanbuljs/nyc/compare/v8.2.0...v8.4.0) (2016-09-15)
 
